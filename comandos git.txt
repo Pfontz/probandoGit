@@ -1,0 +1,18 @@
+file:///C:/Program%20Files/Git/mingw64/share/doc/git-doc/gittutorial.html
+(documentacion de git)
+
+$ git help (info de comandos)
+
+$ git config --global user.name "mi nombre"
+$ git config --global user.email "mi email"
+
+$ git init
+$ git cd
+$ git add .
+$ git status
+$ git diff
+$ git commit -m"mensaje" (m de mensaje)
+$ git rm
+$ git mv
+
+$ git format-patch (manda mail del commit)
