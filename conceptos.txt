@@ -1,3 +1,4 @@
 commits: se puede interpretar como distintas versiones del proyecto
 
 branches: lineas paralelas de desarrollo. Un solo repositorio puede "seguir (track)" distintos branches.
+A freshly cloned repository contains a single branch head, by default named "master
