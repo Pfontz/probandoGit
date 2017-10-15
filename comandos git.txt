@@ -6,13 +6,16 @@ $ git help (info de comandos)
 $ git config --global user.name "mi nombre"
 $ git config --global user.email "mi email"
 
-$ git init
+$ git init (creo nuevo repositorio)
 $ git cd
-$ git add .
+$ git add . / <archivo>
 $ git status
 $ git diff
 $ git commit -m"mensaje" (m de mensaje)
 $ git rm
 $ git mv
+
+$ git push (meto los cambios al repo)
+$ git pull (actualizo mi repo)
 
 $ git format-patch (manda mail del commit)
