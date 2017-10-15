@@ -21,3 +21,8 @@ $ git push (meto los cambios al repo)
 $ git pull (actualizo mi repo)
 
 $ git format-patch (manda mail del commit)
+
+
+
+
+adadasda
