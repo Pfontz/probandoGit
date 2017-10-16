@@ -11,9 +11,9 @@ probando actualizar archivo con el repo desactualizado 3
 probando actualizar archivo con el repo desactualizado 4
 
 
-actulizando archivo desde branch: nuevoBranch
-actulizando archivo desde branch: master
+actualizando archivo desde branch: nuevoBranch (1)
 
-actualizando archivo desde branch: nuevoBranch
+actualizando archivo desde branch: nuevoBranch (2)
 
+actualizando archivo desde branch: nuevoBranch (3)
 
