@@ -33,3 +33,8 @@ branches:
  $ git branch <branch> <start-point> (crea branch especificando un determinado punto, ej. el object name de un commit)
  $ git branch -d <branch> (elimina el branch dependiendo del estado de merge)
  $ git branch -D <branch> (elimina el branch independientemente del estado de merge)
+
+
+merge:
+
+$ git merge branchName (combina los cambios hechos en branchName con el branch donde estamos)

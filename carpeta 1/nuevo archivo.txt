@@ -14,3 +14,9 @@ probando actualizar archivo con el repo desactualizado 4
 actulizando archivo desde branch: nuevoBranch
 actulizando archivo desde branch: master
 
+<<<<<<< HEAD
+=======
+actualizando archivo desde branch: nuevoBranch
+
+
+>>>>>>> nuevoBranch
