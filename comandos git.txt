@@ -26,3 +26,10 @@ $ git format-patch (manda mail del commit)
 $ gitk (muestra linea historica de commits y merge del proyecto)
 
 $ git show (muestra el commit mas reciente de un determinado branch)
+
+branches:
+ $ git branch (muestra los distintos branches)
+ $ git branch <branch> (crea nuevo branch REFERENCIANDO EL MISMO PUNTO QUE EL CORRIENTE BRANCH !!)
+ $ git branch <branch> <start-point> (crea branch especificando un determinado punto, ej. el object name de un commit)
+ $ git branch -d <branch> (elimina el branch dependiendo del estado de merge)
+ $ git branch -D <branch> (elimina el branch independientemente del estado de merge)
