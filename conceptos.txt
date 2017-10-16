@@ -2,15 +2,20 @@ commits: se puede interpretar como distintas versiones del proyecto
 
 branches: lineas paralelas de desarrollo. Un solo repositorio puede "seguir (track)" distintos branches.
 A freshly cloned repository contains a single branch head, by default named "master
+branch head o head: hace referencia al commit mas reciente de un branch.
+En realidad un branch o branch head es un puntero a un determinado commit seguido por otros commits, pero se dice
+que todo es parte del mismo "branch".
+
 
 tag: referencias al historial del proyecto (like heads)
 	$git tag -l
 se espera que siempre apunten a la misma version del proyecto, mientras que head 
 avanza con el progreso.
 
-head: hace referencia al ultimo commit de cada branch
 
 cuando clonas inicialmente un repositorio tenes un solo branch head llamado master. el estado del repositorio clonado esta referenciado por el branch head (ultimo commit)
 
 
 Git allows lines of development to diverge and then reconverge (gitk)
+
+object name (codigo único que identifica cada commit)
