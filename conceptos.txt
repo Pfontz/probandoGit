@@ -13,3 +13,4 @@ head: hace referencia al ultimo commit de cada branch
 cuando clonas inicialmente un repositorio tenes un solo branch head llamado master. el estado del repositorio clonado esta referenciado por el branch head (ultimo commit)
 
 
+Git allows lines of development to diverge and then reconverge (gitk)

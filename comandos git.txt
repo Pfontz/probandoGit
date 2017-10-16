@@ -23,6 +23,5 @@ $ git pull (actualizo mi repo)
 $ git format-patch (manda mail del commit)
 
 
+$ gitk (muestra linea historica de commits y merge del proyecto)
 
-
-adadasda
