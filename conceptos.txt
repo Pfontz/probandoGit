@@ -19,3 +19,8 @@ cuando clonas inicialmente un repositorio tenes un solo branch head llamado mast
 Git allows lines of development to diverge and then reconverge (gitk)
 
 object name (codigo único que identifica cada commit)
+
+git fetch: actualiza todos los branches a la ultima version en el repositorio original. No toca el branch propio ni el master.
+
+fork: copia del repositorio, permite trabajar con el proyecto sin afectar el original (a diferencia del branch) 
+(Ver ayuda de fork y open source guide)
